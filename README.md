@@ -8,7 +8,7 @@ Info
 val ilyakrasnovv = student {
     grade = 10.graduatingIn(2024)
     school {
-        +"public moscow school 57"
+        +"public Moscow high school 57"
         website = "https://sch57.ru"    
     }
     major {
@@ -18,7 +18,7 @@ val ilyakrasnovv = student {
         +"Codeforces.com problemsetter"
         +"National cs olympiad prize winner"
         +"Tinkoff generation student"
-        +"kotlin enjoyer"
+        +"Kotlin enjoyer"
     }
     links {
         website = "https://ilkras.ru"
