@@ -8,11 +8,11 @@ Info
 val ilyakrasnovv = student {
     grade = 10.graduatingIn(2024)
     school {
-        +"public Moscow high school 57"
+        +"Public Moscow high school 57"
         website = "https://sch57.ru"    
     }
     major {
-        +"computer science"
+        +"Computer Science"
     }
     info {
         +"Codeforces.com problemsetter"
