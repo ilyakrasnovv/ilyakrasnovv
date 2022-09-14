@@ -1,10 +1,29 @@
-- 👋 Hi, I’m @ilyakrasnovv
-- 👀 I’m interested in computer science and competetive programming ([codeforces](https://codeforces.com/profile/ilyakrasnovv))
-- 🌱 I’m currently learning java, kotlin, flutter and so on
-- 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me --- Москва, Кремль, Путину
+<p align="center">
+  <img src="https://i.imgur.com/PKeTvbA.png">
+</p>
 
-<!---
-ilyakrasnovv/ilyakrasnovv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Info
+---
+```kotlin
+val ilyakrasnovv = student {
+    grade = 10.graduatingIn(2024)
+    school {
+        +"public moscow school 57"
+        website = "https://sch57.ru"    
+    }
+    major {
+        +"computer science"
+    }
+    info {
+        +"Codeforces.com problemsetter"
+        +"National cs olympiad prize winner"
+        +"Tinkoff generation student"
+        +"kotlin enjoyer"
+    }
+    links {
+        website = "https://ilkras.ru"
+        git = "https://git.ilkras.ru"
+        telegram = "https://infixFun.t.me"
+    }
+}
+```
