@@ -6,19 +6,21 @@ Info
 ---
 ```kotlin
 val ilyakrasnovv = student {
-    grade = 10.graduatingIn(2024)
-    school {
+    education {
+        degree = "secondary school"
         +"Public Moscow high school 57"
-        website = "https://sch57.ru"    
-    }
-    major {
-        +"Computer Science"
+        website = "https://sch57.ru"
+        major = "Computer Science"
+        graduationYear = 2024
     }
     info {
         +"Codeforces.com problemsetter"
         +"National cs olympiad prize winner"
-        +"Tinkoff generation student"
         +"Kotlin enjoyer"
+    }
+    contacts {
+        direct = "https://ilkrasnov.t.me",
+        email = "ilyakrasnovv@gmail.com",
     }
     links {
         website = "https://ilkras.ru"
