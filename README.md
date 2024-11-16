@@ -1,3 +1,4 @@
+<!---
 <p align="center">
   <img src="https://i.imgur.com/PKeTvbA.png">
 </p>
@@ -29,3 +30,4 @@ val ilyakrasnovv = student {
     }
 }
 ```
+-->
